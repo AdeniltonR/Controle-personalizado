@@ -95,18 +95,18 @@ Este é o diagrama do projeto eletrônico, onde estarão contidos todos os circu
 
 ⚙️**Confira a versão ao vivo!**
 
-Para obter mais informações sobre o projeto Eletrônico, clique no [**link**](https://www.notion.so/Readme-hardware-a18acfe18ea94789b4ae918cda929c53?pvs=21) a seguir.
+Para obter mais informações sobre o projeto Eletrônico, clique no [**link**](https://github.com/AdeniltonR/Controle-personalizado/tree/main/Hardware) a seguir.
 
 `[Adicionar uma foto ou Gif]`
 
 ### Firmware
 
-Para obter mais informações sobre o projeto do Firmware, clique no [**link**](https://www.notion.so/Readme-firmware-Arduino-730889d213424026a7599c931b5c57ee?pvs=21) a seguir.
+Para obter mais informações sobre o projeto do Firmware, clique no [**link**](https://github.com/AdeniltonR/Controle-personalizado/tree/main/Firmware) a seguir.
 
 `[Adicionar uma foto ou Gif]`
 
 ### Cad
 
-Para obter mais informações sobre o projeto de Cad, clique no [**link**](https://www.notion.so/Readm-Cad-a904a16f44254b879c30041191991f84?pvs=21) a seguir.
+Para obter mais informações sobre o projeto de Cad, clique no [**link**](https://github.com/AdeniltonR/Controle-personalizado/tree/main/Cad%203D) a seguir.
 
 `[Adicionar uma foto ou Gif]`
