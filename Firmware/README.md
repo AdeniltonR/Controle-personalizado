@@ -1,4 +1,4 @@
-# _Nome do Projeto_
+# _Firmware controle personalizado_
 
 ![Firmware version](https://img.shields.io/badge/Firmware_version-1.0.0-blue)
 
@@ -9,6 +9,7 @@
 - [Histórico de Versão](#histórico-de-versão)
 - [Resumo](#resumo)
 - [Objetivo](#objetivo)
+- [Simulador](#simulador)
 - [Cabeçalho de Programação](#cabeçalho-de-programação)
 - [Links para estudos](#links-para-estudos)
 - [Fluxograma](#fluxograma)
@@ -16,7 +17,7 @@
 - [Bibliotecas](#bibliotecas)
 - [URLs Adicionais para Gerenciadores de Placas](#urls-adicionais-para-gerenciadores-de-placas)
 - [Configuração da placa](#configuração-da-placa)
-  - [Gerenciador de Placas](#gerenciador-de-placas:)
+  - [Gerenciador de Placas](#gerenciador-de-placas)
 - [Configuração do microcontrolador](#configuração-do-microcontrolador)
 - [Configuração do Firmware](#configuração-do-firmware)
 - [Informações](#informações)
@@ -42,9 +43,9 @@ Para este projeto, estamos utilizando o simulador Wokwi. Para acessar o simulado
 
 **Opções de Simulação:**
 
-[`Kit completo online:`](https://wokwi.com/projects/410058572017039361) Acesse o simulador diretamente pelo navegador e use o kit completo online.
+[**`Kit completo online:`**](https://wokwi.com/projects/410058572017039361) Acesse o simulador diretamente pelo navegador e use o kit completo online.
 
-**`Kit completo VS Code:`** Para uma experiência integrada no VS Code, instale a extensão Wokwi e configure o ambiente localmente para simulação.
+[**`Kit completo VS Code:`**](https://github.com/AdeniltonR/Controle-personalizado/tree/master/Firmware/Simulador/kit-completo) Para uma experiência integrada no VS Code, instale a extensão Wokwi e configure o ambiente localmente para simulação.
 
 ## Cabeçalho de Programação
 
@@ -65,9 +66,13 @@ Lembre-se de incluir um cabeçalho de programação em todos os arquivos C++. Aq
 
 ## Links para estudos
 
-`Link`para adicionar
+[Datasheet ESP32-S3.](https://br.mouser.com/datasheet/2/891/esp32_s3_wroom_1_wroom_1u_datasheet_en-2930317.pdf)
 
-`Link`para adicionar
+[ESP32-S3-DevKitC-1 v1.1.](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html)
+
+[Pinout ESP32-S3.](https://www.studiopieters.nl/esp32-s3-wroom-pinout/)
+
+[JTAG documentação.](https://docs.espressif.com/projects/esp-idf/en/stable/esp32s3/api-guides/jtag-debugging/index.html)
 
 `Link`para adicionar
 
@@ -115,7 +120,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 ## Configuração da placa
 
-### Gerenciador de Placas:
+### Gerenciador de Placas
 
 `[Adicionar uma imagem]`
 
