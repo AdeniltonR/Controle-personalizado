@@ -36,6 +36,16 @@
 
 [Descrição dos objetivos do projeto.]
 
+## Simulador
+
+Para este projeto, estamos utilizando o simulador Wokwi. Para acessar o simulador, basta criar uma conta no site do [**`Wokwi`**](https://wokwi.com/) e seguir as instruções para integrar o simulador ao [**`VS Code`**](https://docs.wokwi.com/pt-BR/vscode/getting-started).
+
+**Opções de Simulação:**
+
+[`Kit completo online:`](https://wokwi.com/projects/410058572017039361) Acesse o simulador diretamente pelo navegador e use o kit completo online.
+
+**`Kit completo VS Code:`** Para uma experiência integrada no VS Code, instale a extensão Wokwi e configure o ambiente localmente para simulação.
+
 ## Cabeçalho de Programação
 
 Lembre-se de incluir um cabeçalho de programação em todos os arquivos C++. Aqui está um exemplo:
