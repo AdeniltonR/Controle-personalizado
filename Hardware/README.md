@@ -100,115 +100,83 @@ Esquemático eletrônico:
 `Link` do datasheet.
 
 **Informações para KiCad:**
-
-- Nome_do_componente
-    
+<details>
+    <summary>Nome_do_componente</summary>
+      
     Palavras-Chave:
-    
     Reference:
-    
     Value:
-    
     Footprint:
-    
     Datasheet:
-    
     Description:
-    
     Site:
-    
     MPN:
-    
     Notes:
-    
     Manufacturer:
-    
     MFR Part #:
-    
     JLCPCB Part #:
-    
     Package:
-    
     Source:
-    
     Assembly Type:
-    
     CAD Model:
-    
     ECCN:
-    
+
+</details>
 
 Informações
-
 Link de arquivos do nome:
-
 [SnapEDA](https://www.snapeda.com/parts/SS34/Taiwan%20Semiconductor/view-part/?ref=search&t=ss34)
 
 ### Componentes Gerais
 
-- **Nome:**
-    
-    **Informações Técnicas:**
-    
-    - `Tensão de operação:` 3,3V - 5V;
-    - `Chip:` DS3231;
-    
-    **Documetação:**
-    
-    Compra do módulo.
-    
-    Compra BR.
-    
-    Datasheet.
-    
-    **Informações para KiCad:**
-    
-    - Nome
-        
-        Palavras-Chave:
-        
-        Reference:
-        
-        Value:
-        
-        Footprint:
-        
-        Datasheet:
-        
-        Description:
-        
-        Site:
-        
-        MPN:
-        
-        Notes:
-        
-        Manufacturer:
-        
-        MFR Part #:
-        
-        JLCPCB Part #:
-        
-        Package:
-        
-        Source:
-        
-        Assembly Type:
-        
-        CAD Model:
-        
-        ECCN:
-        
-    
-    Informações
-    
-    Link de arquivos do nome:
-    
-    [SnapEDA](https://www.snapeda.com/parts/SS34/Taiwan%20Semiconductor/view-part/?ref=search&t=ss34)
+<details>
+  <summary>Nome:</summary>
+
+  **Informações Técnicas:**
+
+  - `Tensão de operação:` 3,3V - 5V;
+  - `Chip:` DS3231;
+
+  **Documetação:**
+
+  Compra do módulo.
+  Compra BR.
+  Datasheet.
+
+  **Informações para KiCad:**
+
+  <details>
+    <summary>Nome:</summary>
+
+    Palavras-Chave:
+    Reference:
+    Value:
+    Footprint:
+    Datasheet:
+    Description:
+    Site:
+    MPN:
+    Notes:
+    Manufacturer:
+    MFR Part #:
+    JLCPCB Part #:
+    Package:
+    Source:
+    Assembly Type:
+    CAD Model:
+    ECCN:
+
+  </details>
+
+  Informações
+  Link de arquivos do nome:
+  [SnapEDA](https://www.snapeda.com/parts/SS34/Taiwan%20Semiconductor/view-part/?ref=search&t=ss34)
+
+</details>
     
 ## Informações do Software
 
-| Info             | Modelo            |
-|------------------||------------------|
-| KiCad            | 8.0.5             |
+| Info             | Modelo           |
+|------------------|------------------|
+| KiCad            | 8.0.5            |
 
