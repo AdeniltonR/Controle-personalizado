@@ -1,4 +1,4 @@
-# _Nome Projeto de Design CAD_
+# _Controle 3D_
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 
@@ -22,7 +22,7 @@ Este repositório é dedicado à gestão de projetos CAD e contém uma estrutura
 
 | Versão | Data       | Autor        | Descrição            |
 |--------|------------|--------------|----------------------|
-| 1.0.0  | 19/06/2024 | Adenilton R  | Início do Projeto    |
+| 1.0.0  | 18/08/2025 | Adenilton R  | Início do Projeto    |
 
 ---
 
