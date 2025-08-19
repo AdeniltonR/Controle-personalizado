@@ -61,7 +61,7 @@ Bottom:
 
 Este é o diagrama do projeto eletrônico, onde estarão contidos todos os circuitos necessários para o funcionamento adequado.
 
-`[Adicionar uma imagem]`
+![diagrama_v2.0.0.jpg](Docs/diagrama_v2.0.0.jpg)
 
 ## Pinos do projeto eletrônico
 
