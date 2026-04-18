@@ -1,25 +1,26 @@
 /*
- * NOME: SEU NOME OU NOMES
- * DATA: 24/07/2023
- * PROJETO: NOME
- * VERSAO: 01
- * DESCRICAO: - 
- * LINKS: - 
+ * NOME: Adenilton Ribeiro
+ * DATA: 17/04/2026
+ * PROJETO: Controle
+ * VERSAO: 1.0.0
+ * DESCRICAO: - Descrição.
+ *            - ESP32-32D - ESP-IDF v5.4.0 e Simulador wokwi
+ * LINKS: 
 */
 
 // ========================================================================================================
-//---BIBLIOTECAS AUXILIARES---
+//---BIBLIOTECAS---
+
+#include <stdio.h>
+#include "freertos/FreeRTOS.h"
+#include "freertos/task.h"
+#include "esp_system.h"
 
 // ========================================================================================================
 //---MAPEAMENTO DE ESTADO---
 
-/** @brief Velocidade do baud rade */
-#define BAUD_RATE 115200
-
 // ========================================================================================================
 //---MAPEAMENTO DE HARDWARE---
-
-#define PIN_nome_exemplo 2
 
 // ========================================================================================================
 //---VARIAVEIS GLOBAIS---
@@ -29,21 +30,12 @@
 
 // ========================================================================================================
 /**
- * @brief Void setup
- * 
- */
-void setup() {  
-  Serial.begin(BAUD_RATE);
+ * @brief Void main
+ *
+*/
+void app_main(void) {
 
-//---setup de pinos---
-  pinMode(PIN_nome_exemplo, OUTPUT);
-}
-
-// ========================================================================================================
-/**
- * @brief Void loop
- * 
- */
-void loop() {
-  delay(1);
+    while(1) {
+        //...
+    }
 }
