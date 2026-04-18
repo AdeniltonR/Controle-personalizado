@@ -26,11 +26,23 @@
 
 ## Resumo
 
-[Descrição resumida do projeto.]
+Este projeto contempla o desenvolvimento de um firmware embarcado para um controle personalizado baseado no microcontrolador ESP32-S3. O sistema utiliza o framework da Espressif com FreeRTOS, permitindo a execução de múltiplas tarefas em tempo real.
+
+O controle contará com diversos dispositivos de entrada, incluindo botões, potenciômetros, joysticks e chaves, além de um display LCD touch de 2.8” com interface gráfica desenvolvida utilizando LVGL. Também será integrado um sensor MPU para leitura de movimento.
+
+A comunicação será feita por múltiplas interfaces, como USB, Bluetooth (BLE), Wi-Fi e RF 2.4 GHz, possibilitando o uso do controle em diferentes aplicações.
 
 ## Objetivo
 
-[Descrição dos objetivos do projeto.]
+Desenvolver um firmware robusto, modular e escalável para um controle multifuncional, capaz de operar em diferentes cenários, como controle de robôs, drones, sistemas de automação e simuladores de voo no PC.
+
+O projeto tem como foco:
+
+- Utilização do FreeRTOS para gerenciamento eficiente de tarefas
+- Integração de múltiplos dispositivos de entrada e sensores
+- Implementação de comunicação sem fio e via USB
+- Criação de uma interface gráfica intuitiva utilizando LVGL
+- Flexibilidade para adaptação a diferentes aplicações e protocolos
 
 ## Simulador
 
@@ -38,9 +50,11 @@ Para este projeto, estamos utilizando o simulador Wokwi. Para acessar o simulado
 
 **Opções de Simulação:**
 
-[**`Kit completo online:`**](https://wokwi.com/projects/410058572017039361) Acesse o simulador diretamente pelo navegador e use o kit completo online.
+[**`Kit completo online:`**](https://wokwi.com/projects/461603168688413697) Acesse o simulador diretamente pelo navegador e use o kit completo online.
 
 [**`Kit completo VS Code:`**](https://github.com/AdeniltonR/Controle-personalizado/tree/master/Firmware/Simulador/kit-completo) Para uma experiência integrada no VS Code, instale a extensão Wokwi e configure o ambiente localmente para simulação.
+
+![Simulador.png](Docs/Simulador.png)
 
 ## Links para estudos
 
@@ -51,8 +65,6 @@ Para este projeto, estamos utilizando o simulador Wokwi. Para acessar o simulado
 [Pinout ESP32-S3.](https://www.studiopieters.nl/esp32-s3-wroom-pinout/)
 
 [JTAG documentação.](https://docs.espressif.com/projects/esp-idf/en/stable/esp32s3/api-guides/jtag-debugging/index.html)
-
-`Link`para adicionar
 
 ## Fluxograma
 
