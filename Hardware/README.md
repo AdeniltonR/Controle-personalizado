@@ -27,7 +27,13 @@
 
 ## Resumo
 
-[Descrição resumida do projeto.]
+Este projeto consiste no desenvolvimento de um controle personalizado completo, abrangendo o design de hardware, firmware e integração de sistemas embarcados, utilizando o microcontrolador ESP32-S3 como unidade principal de processamento.
+
+O hardware foi projetado para oferecer uma interface rica ao usuário, incluindo botões táteis, potenciômetros, joysticks analógicos, chaves de seleção e um display LCD touch de 2.8” com interface gráfica baseada em LVGL. Além disso, o sistema incorpora um sensor inercial (MPU) para detecção de movimento e orientação.
+
+A arquitetura de energia foi desenvolvida visando robustez e eficiência, utilizando uma ou duas células de bateria Li-ion 18650. O gerenciamento de energia é realizado pelo MAX77960, responsável pelo controle de carga, distribuição de energia (power path) e alimentação do sistema. Para monitoramento preciso da bateria, é utilizado o MAX17205, permitindo a medição avançada de parâmetros como nível de carga (%), corrente, tensão, tempo restante e estado de saúde da bateria.
+
+O sistema suporta múltiplas interfaces de comunicação, incluindo USB, Bluetooth BLE, Wi-Fi e rádio frequência na faixa de 2.4 GHz, possibilitando sua aplicação em controle de robôs, drones, sistemas de automação e simuladores de voo em PC.
 
 ## Arquivos de fabricação
 
@@ -178,5 +184,5 @@ Link de arquivos do nome:
 
 | Info             | Modelo           |
 |------------------|------------------|
-| KiCad            | 8.0.5            |
+| KiCad            | 10.0.1           |
 
