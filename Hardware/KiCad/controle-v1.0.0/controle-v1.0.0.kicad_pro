@@ -454,7 +454,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "A.R.shematic"
+    ]
   },
   "meta": {
     "filename": "controle-v1.0.0.kicad_pro",
@@ -616,7 +618,7 @@
         "uuid": "05513a8a-9fec-4f5d-a8a4-64a7cbb7c4a8"
       }
     ],
-    "used_designators": "#PWR1-2,#PWR15-28",
+    "used_designators": "U2",
     "variants": []
   },
   "sheets": [
